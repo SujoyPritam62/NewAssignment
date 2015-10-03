@@ -1,0 +1,4 @@
+E:\MVS2010\NewAssignment\NewAssignment\bin\Debug\NewAssignment.exe
+E:\MVS2010\NewAssignment\NewAssignment\bin\Debug\NewAssignment.pdb
+E:\MVS2010\NewAssignment\NewAssignment\obj\x86\Debug\NewAssignment.exe
+E:\MVS2010\NewAssignment\NewAssignment\obj\x86\Debug\NewAssignment.pdb
